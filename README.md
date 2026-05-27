@@ -1,4 +1,4 @@
-## hiiiiii  thiss is meeeee and my random respiratory
+## hiiiiii  thiss is meeeee and my random repoitory
 
 <!--
 **minminria/minminria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
